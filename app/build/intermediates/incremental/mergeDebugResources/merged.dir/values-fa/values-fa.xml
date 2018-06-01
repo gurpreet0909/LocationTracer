@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"پیمایش به صفحه اصلی"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"‏%1$s‏، %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"‏%1$s‏، %2$s‏، %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"پیمایش به بالا"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"گزینه‌های بیشتر"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تمام"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"مشاهده همه"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"انتخاب برنامه"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"خاموش"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"روشن"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"جستجو…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"پاک کردن عبارت جستجو"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"عبارت جستجو"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"جستجو"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ارسال عبارت جستجو"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"جستجوی گفتاری"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"اشتراک‌گذاری با"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏اشتراک‌گذاری با %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"کوچک کردن"</string>
+    <string name="about_description">ردیاب زنده GPS برای اندروید . سازگار با سرورهای Traccar و سایر سرورهای ردیاب</string>
+    <string name="about_license">این نرم افزار مجانی و سورس باز تحت لیسانس Apache  نگارش 2.0 و فعال در GitHub.</string>
+    <string name="about_web">برای کسب اطلاعات بیشتر به سایت زیر مراجعه نمایید.
+www.traccar.org/client</string>
+    <string name="app_logo">ردیاب Traccar</string>
+    <string name="app_name">ردیاب Traccar</string>
+    <string name="error_msg_invalid_url">لطفا آدرس معتبر که با http:// یا https:// شروع میشود را وارد نمایید</string>
+    <string name="hidden_alert">نرم افزار مخفی است . جهت نمایش آن با این شماره تماس بگیرید.
+8722227 (Traccar)</string>
+    <string name="hidden_app_name">تنظیمات دستگاه</string>
+    <string name="menu_about">درباره</string>
+    <string name="menu_clear">پاک کردن</string>
+    <string name="menu_shortcuts">ایجاد میانبر</string>
+    <string name="menu_status">وضعیت</string>
+    <string msgid="146198913615257606" name="search_menu_title">"جستجو"</string>
+    <string name="settings_angle_summary">گزارش زاویه / درجه</string>
+    <string name="settings_angle_title">زاویه</string>
+    <string name="settings_distance_summary">گزارش فاصله / متر</string>
+    <string name="settings_distance_title">فاصله</string>
+    <string name="settings_foreground_summary">افزایش اولویت سرویس</string>
+    <string name="settings_foreground_title">سرویس پیش زمینه</string>
+    <string name="settings_id_title">کد هویت دستگاه</string>
+    <string name="settings_interval_summary">فاصله گزارش دهی بر حسب ثانیه</string>
+    <string name="settings_interval_title">تاخیر ارسال</string>
+    <string name="settings_provider_gps">ارائه GPS</string>
+    <string name="settings_provider_mixed">ارائه ترکیبی</string>
+    <string name="settings_provider_network">ارائه شبکه اپراتور</string>
+    <string name="settings_provider_summary">سورس اطلاعات مکان</string>
+    <string name="settings_provider_title">ارائه مکان</string>
+    <string name="settings_status_off">شروع</string>
+    <string name="settings_status_off_summary">سرویس متوقف است</string>
+    <string name="settings_status_on">توقف</string>
+    <string name="settings_status_on_summary">سرویس در حال کار است</string>
+    <string name="settings_status_title">وضعیت سرویس</string>
+    <string name="settings_url_summary">مسیر آدرس سرور مسیریاب</string>
+    <string name="settings_url_title">مسیر آدرس سرور</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"۹۹۹+"</string>
+    <string name="status_connectivity_change">تغییرات در ارتباطات</string>
+    <string name="status_location_update">به روز رسانی مکان</string>
+    <string name="status_send_fail">ارسال ناموفق</string>
+    <string name="status_send_success">ارسال موفق</string>
+</resources>

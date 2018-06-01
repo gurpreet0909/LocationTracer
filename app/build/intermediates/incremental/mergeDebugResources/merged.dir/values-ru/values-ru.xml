@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="about_description">Трекер для Android устройств. Совместим с Traccar сервером и другими мониторинговыми системами.</string>
+    <string name="about_license">Это приложение распростаняется бесплатно, исходный код распростаняется по лицензии Apache License Version 2.0 и доступен на GitHub.</string>
+    <string name="about_web">Для получения дополнительной информации посетите\nwww.traccar.org/client</string>
+    <string name="app_logo">Traccar</string>
+    <string name="app_name">Traccar Клиент</string>
+    <string name="error_msg_invalid_url">Пожалуйста, введите верный http:// или https:// URL</string>
+    <string name="hidden_alert">Приложение было спрятано. Чтобы открыть позвоните на номер 8722227 (TRACCAR).</string>
+    <string name="hidden_app_name">Настройки устройтва</string>
+    <string name="menu_about">О программе</string>
+    <string name="menu_clear">Очистить</string>
+    <string name="menu_shortcuts">Добавить ярлыки</string>
+    <string name="menu_status">Состояние</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Поиск"</string>
+    <string name="settings_angle_summary">Отчетный угол в градусах</string>
+    <string name="settings_angle_title">Угол</string>
+    <string name="settings_distance_summary">Отчетное расстояние в метрах</string>
+    <string name="settings_distance_title">Расстояние</string>
+    <string name="settings_foreground_summary">Увеличить приоритет сервиса</string>
+    <string name="settings_foreground_title">Приоритетный сервис</string>
+    <string name="settings_id_title">Идентификатор устройства</string>
+    <string name="settings_interval_summary">Отчетный интервал в секундах</string>
+    <string name="settings_interval_title">Частота</string>
+    <string name="settings_provider_gps">GPS провайдер</string>
+    <string name="settings_provider_mixed">Смешанный провайдер</string>
+    <string name="settings_provider_network">Сетевой провайдер</string>
+    <string name="settings_provider_summary">Источник данных о местоположении</string>
+    <string name="settings_provider_title">Провайдер местоположения</string>
+    <string name="settings_status_off">Старт</string>
+    <string name="settings_status_off_summary">Сервис остановлен</string>
+    <string name="settings_status_on">Стоп</string>
+    <string name="settings_status_on_summary">Сервис запущен</string>
+    <string name="settings_status_title">Состояние сервиса</string>
+    <string name="settings_url_summary">URL телематического сервера</string>
+    <string name="settings_url_title">URL сервера</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="status_connectivity_change">Изменение подключения</string>
+    <string name="status_location_update">Обновление местоположения</string>
+    <string name="status_send_fail">Ошибка отправки</string>
+    <string name="status_send_success">Отправка успешна</string>
+</resources>

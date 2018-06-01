@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Idi na početnu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Idi gore"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Dodatne opcije"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Prikaži sve"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Odabir aplikacije"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ISKLJUČENO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"UKLJUČENO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pretražite…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Izbriši upit"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Upit za pretraživanje"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pretraživanje"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Pošalji upit"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Glasovno pretraživanje"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dijeljenje sa"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dijeljenje sa: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sažmi"</string>
+    <string name="about_description">GPS praćenje u stvarnom vremenu za Android uređaje. Kompatibilno sa Traccar Server i drugim sustavima za praćenje.</string>
+    <string name="about_license">Ova aplikacija je besplatna i iz otvorenog izvora, izvorni kod je zaštićen Apache Licencom verzija 2.0 i dostupna na GitHub.</string>
+    <string name="about_web">Za više informacija posjetite www.traccar.org/client</string>
+    <string name="app_logo">Traccar</string>
+    <string name="app_name">Traccar klijent</string>
+    <string name="error_msg_invalid_url">Molimo unesite ispravnu http:// ili https:// adresu</string>
+    <string name="hidden_alert">Aplikacija je skrivena. Za ponovno otvaranje molim nazovite  8722227 (TRACCAR).</string>
+    <string name="hidden_app_name">Podešavanje uređaja</string>
+    <string name="menu_about">O nama</string>
+    <string name="menu_clear">Očisti</string>
+    <string name="menu_shortcuts">Dodaj prečace</string>
+    <string name="menu_status">Status</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pretraživanje"</string>
+    <string name="settings_angle_summary">Kut izvješćivanja u stupnjevima</string>
+    <string name="settings_angle_title">Kut</string>
+    <string name="settings_distance_summary">Udaljenost izvješćivanja u metrima</string>
+    <string name="settings_distance_title">Udaljenost</string>
+    <string name="settings_foreground_summary">Povećanje prioriteta usluge</string>
+    <string name="settings_foreground_title">Predhodna usluga</string>
+    <string name="settings_id_title">Identifikator uređaja</string>
+    <string name="settings_interval_summary">Interval izvješćivanja u sekundama</string>
+    <string name="settings_interval_title">Učestalost</string>
+    <string name="settings_provider_gps">GPS pružatelj usluge</string>
+    <string name="settings_provider_mixed">Mješani pružatelj usluge</string>
+    <string name="settings_provider_network">Mrežni pružatelj usluge</string>
+    <string name="settings_provider_summary">Izvor podataka o lokaciji</string>
+    <string name="settings_provider_title">Pružatelj usluge lokacija</string>
+    <string name="settings_status_off">Start</string>
+    <string name="settings_status_off_summary">Servis zaustavljen</string>
+    <string name="settings_status_on">Stop</string>
+    <string name="settings_status_on_summary">Servis pokrenut</string>
+    <string name="settings_status_title">Status servisa</string>
+    <string name="settings_url_summary">Adresa poslužitelja za praćenje</string>
+    <string name="settings_url_title">Adresa poslužitelja</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_connectivity_change">Promjena konekcije</string>
+    <string name="status_location_update">Osvežavanje lokacije</string>
+    <string name="status_send_fail">Greška pri slanju</string>
+    <string name="status_send_success">Slanje uspješno</string>
+</resources>

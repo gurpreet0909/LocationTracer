@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Điều hướng về trang chủ"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Điều hướng lên trên"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Thêm tùy chọn"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Xong"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Xem tất cả"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Chọn một ứng dụng"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"TẮT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BẬT"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Tìm kiếm…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Xóa truy vấn"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Tìm kiếm truy vấn"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Tìm kiếm"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Gửi truy vấn"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Tìm kiếm bằng giọng nói"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Chia sẻ với"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Chia sẻ với %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Thu gọn"</string>
+    <string name="about_description">Định vị GPS thời gian thực cho thiết bị Android. Tương thích với máy chủ Traccar và các hệ thống theo dõi khác.</string>
+    <string name="about_license">Ứng dụng miễn phí và mã nguồn mở, mã nguồn được phát hành theo giấy phép Apache License phiên bản 2.0 trên GitHub.</string>
+    <string name="about_web">Thông tin chi tiết\nwww.traccar.org/client</string>
+    <string name="app_logo">Traccar</string>
+    <string name="app_name">Máy khách Traccar</string>
+    <string name="error_msg_invalid_url">Vui lòng nhập đường dẫn hợp lệ http:// hoặc https://</string>
+    <string name="hidden_alert">Ứng dụng đã được ẩn. Để mở lại xin vui lòng gọi 8722227 (TRACCAR).</string>
+    <string name="hidden_app_name">Cài đặt thiết bị</string>
+    <string name="menu_about">About</string>
+    <string name="menu_clear">Xóa</string>
+    <string name="menu_shortcuts">Thêm phím tắt</string>
+    <string name="menu_status">Trạng thái</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Tìm kiếm"</string>
+    <string name="settings_angle_summary">Đơn vị tính theo độ</string>
+    <string name="settings_angle_title">Góc</string>
+    <string name="settings_distance_summary">Khoảng cách đo theo mét</string>
+    <string name="settings_distance_title">Khoảng cách</string>
+    <string name="settings_foreground_summary">Tăng thứ tự ưu tiên dịch vụ</string>
+    <string name="settings_foreground_title">Dịch vụ chạy nổi</string>
+    <string name="settings_id_title">Định danh thiết bị</string>
+    <string name="settings_interval_summary">Thời gian báo cáo định kỳ tính bằng giây</string>
+    <string name="settings_interval_title">Tần suất</string>
+    <string name="settings_provider_gps">Thiết bị GPS</string>
+    <string name="settings_provider_mixed">Nhà cung cấp tổng hợp</string>
+    <string name="settings_provider_network">Nhà cung cấp mạng</string>
+    <string name="settings_provider_summary">Nguồn dữ liệu vị trí</string>
+    <string name="settings_provider_title">Định vị</string>
+    <string name="settings_status_off">Bắt đầu</string>
+    <string name="settings_status_off_summary">Dịch vụ kết thúc</string>
+    <string name="settings_status_on">Kết thúc</string>
+    <string name="settings_status_on_summary">Dịch vụ đang hoạt động</string>
+    <string name="settings_status_title">Trạng thái dịch vụ</string>
+    <string name="settings_url_summary">Đường link server giám sát</string>
+    <string name="settings_url_title">Đường dẫn server</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_connectivity_change">Kết nối thay đổi</string>
+    <string name="status_location_update">Vị trí đã được cập nhật</string>
+    <string name="status_send_fail">Gửi lỗi</string>
+    <string name="status_send_success">Gửi thành công</string>
+</resources>

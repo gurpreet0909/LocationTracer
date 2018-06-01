@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:2:1-65:12
+MERGED from [com.android.support:design:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/89bdf3856de3c5c8f3e7dd13a2c3cf54/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/8cc9512bc861b2c652ff0277cc2d98b7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/transition-26.0.1.aar/865632ae2a0ca9804ecd7345f0b80c9c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/64dbfd9ea7daf3b8e5c55e4eea84fe7d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/8cbba2b01e7da42750dd1d9bb7cd7296/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/52a5cbae05d5f9599c3147871859e939/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/d217b7a25834ebb99ebfe32ee3e6dcf3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/d6ed0e7e230f0eb26a1e8ca98706aa4f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/5d0b01eadcef9d7e7e5cb916faac1c03/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/57c3827c1b78e5dcdecba3cbe8c5d081/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/4a21829ea32948afc09944ae4032964f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/a2efb64b34a7cb65d5786129d018e4de/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:4:5-36
+		INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:2:1-65:12
+		INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:2:1-65:12
+		INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:3:5-63
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:11:22-65
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:12:5-88
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:12:22-85
+application
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:14:5-63:19
+MERGED from [com.android.support:design:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/89bdf3856de3c5c8f3e7dd13a2c3cf54/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/89bdf3856de3c5c8f3e7dd13a2c3cf54/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/8cc9512bc861b2c652ff0277cc2d98b7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/8cc9512bc861b2c652ff0277cc2d98b7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/transition-26.0.1.aar/865632ae2a0ca9804ecd7345f0b80c9c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/transition-26.0.1.aar/865632ae2a0ca9804ecd7345f0b80c9c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/64dbfd9ea7daf3b8e5c55e4eea84fe7d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/64dbfd9ea7daf3b8e5c55e4eea84fe7d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/8cbba2b01e7da42750dd1d9bb7cd7296/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/8cbba2b01e7da42750dd1d9bb7cd7296/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/52a5cbae05d5f9599c3147871859e939/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/52a5cbae05d5f9599c3147871859e939/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/d217b7a25834ebb99ebfe32ee3e6dcf3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/d217b7a25834ebb99ebfe32ee3e6dcf3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/d6ed0e7e230f0eb26a1e8ca98706aa4f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/d6ed0e7e230f0eb26a1e8ca98706aa4f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/5d0b01eadcef9d7e7e5cb916faac1c03/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/5d0b01eadcef9d7e7e5cb916faac1c03/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/57c3827c1b78e5dcdecba3cbe8c5d081/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/57c3827c1b78e5dcdecba3cbe8c5d081/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/4a21829ea32948afc09944ae4032964f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/4a21829ea32948afc09944ae4032964f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/a2efb64b34a7cb65d5786129d018e4de/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/a2efb64b34a7cb65d5786129d018e4de/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:19:9-60
+activity#com.trans.fleetTrack.MainActivity
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:21:9-23:47
+	android:launchMode
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:23:13-44
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:22:13-61
+activity-alias#org.fleettrack.client.Launcher
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:25:9-35:26
+	android:targetActivity
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:27:13-71
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:26:13-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:30:27-74
+meta-data#android.app.shortcuts
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:32:13-34:53
+	android:resource
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:34:17-50
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:33:17-53
+activity#com.trans.fleetTrack.StatusActivity
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:37:9-71
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:37:19-69
+activity#com.trans.fleetTrack.AboutActivity
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:39:9-70
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:39:19-68
+activity#com.trans.fleetTrack.ShortcutActivity
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:41:9-48:20
+	android:label
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:43:13-51
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:42:13-65
+intent-filter#android.intent.action.CREATE_SHORTCUT+android.intent.action.MAIN
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:44:13-47:29
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:46:17-80
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:46:25-77
+service#com.trans.fleetTrack.TrackingService
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:50:9-72
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:50:18-69
+service#com.trans.fleetTrack.TrackingService$HideNotificationService
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:52:9-96
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:52:18-93
+receiver#com.trans.fleetTrack.AutostartReceiver
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:54:9-61:20
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:54:19-72
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:55:13-57:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:56:17-79
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:56:25-76
+intent-filter#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:58:13-60:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:59:17-84
+	android:name
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml:59:25-81
+uses-sdk
+INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/89bdf3856de3c5c8f3e7dd13a2c3cf54/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/89bdf3856de3c5c8f3e7dd13a2c3cf54/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/8cc9512bc861b2c652ff0277cc2d98b7/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/8cc9512bc861b2c652ff0277cc2d98b7/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/transition-26.0.1.aar/865632ae2a0ca9804ecd7345f0b80c9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/transition-26.0.1.aar/865632ae2a0ca9804ecd7345f0b80c9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/64dbfd9ea7daf3b8e5c55e4eea84fe7d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/64dbfd9ea7daf3b8e5c55e4eea84fe7d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/8cbba2b01e7da42750dd1d9bb7cd7296/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/8cbba2b01e7da42750dd1d9bb7cd7296/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/52a5cbae05d5f9599c3147871859e939/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/52a5cbae05d5f9599c3147871859e939/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/d217b7a25834ebb99ebfe32ee3e6dcf3/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/d217b7a25834ebb99ebfe32ee3e6dcf3/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/d6ed0e7e230f0eb26a1e8ca98706aa4f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/d6ed0e7e230f0eb26a1e8ca98706aa4f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/5d0b01eadcef9d7e7e5cb916faac1c03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/5d0b01eadcef9d7e7e5cb916faac1c03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/57c3827c1b78e5dcdecba3cbe8c5d081/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/57c3827c1b78e5dcdecba3cbe8c5d081/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/4a21829ea32948afc09944ae4032964f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/4a21829ea32948afc09944ae4032964f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/a2efb64b34a7cb65d5786129d018e4de/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/a2efb64b34a7cb65d5786129d018e4de/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/89bdf3856de3c5c8f3e7dd13a2c3cf54/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gurpreetsingh/Desktop/FleetTrack/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/89bdf3856de3c5c8f3e7dd13a2c3cf54/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/8cc9512bc861b2c652ff0277cc2d98b7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/8cc9512bc861b2c652ff0277cc2d98b7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/transition-26.0.1.aar/865632ae2a0ca9804ecd7345f0b80c9c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/transition-26.0.1.aar/865632ae2a0ca9804ecd7345f0b80c9c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/64dbfd9ea7daf3b8e5c55e4eea84fe7d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/64dbfd9ea7daf3b8e5c55e4eea84fe7d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/8cbba2b01e7da42750dd1d9bb7cd7296/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.1.aar/8cbba2b01e7da42750dd1d9bb7cd7296/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/52a5cbae05d5f9599c3147871859e939/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/52a5cbae05d5f9599c3147871859e939/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/d217b7a25834ebb99ebfe32ee3e6dcf3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/d217b7a25834ebb99ebfe32ee3e6dcf3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/d6ed0e7e230f0eb26a1e8ca98706aa4f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/d6ed0e7e230f0eb26a1e8ca98706aa4f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/5d0b01eadcef9d7e7e5cb916faac1c03/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/5d0b01eadcef9d7e7e5cb916faac1c03/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/57c3827c1b78e5dcdecba3cbe8c5d081/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/57c3827c1b78e5dcdecba3cbe8c5d081/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/4a21829ea32948afc09944ae4032964f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/4a21829ea32948afc09944ae4032964f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/a2efb64b34a7cb65d5786129d018e4de/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/a2efb64b34a7cb65d5786129d018e4de/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/89bdf3856de3c5c8f3e7dd13a2c3cf54/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.1] /Users/gurpreetsingh/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/89bdf3856de3c5c8f3e7dd13a2c3cf54/AndroidManifest.xml:27:13-51

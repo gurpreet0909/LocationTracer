@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"นำทางไปหน้าแรก"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"นำทางขึ้น"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ตัวเลือกอื่น"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"เสร็จสิ้น"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"ดูทั้งหมด"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"เลือกแอป"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ปิด"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"เปิด"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"ค้นหา…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"ล้างข้อความค้นหา"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"ข้อความค้นหา"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"ค้นหา"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ส่งข้อความค้นหา"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ค้นหาด้วยเสียง"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"แชร์กับ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"แชร์กับ %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"ยุบ"</string>
+    <string name="about_description">Real time GPS tracker for Android devices. Compatible with Traccar Server and other tracking systems.</string>
+    <string name="about_license">This application is free and open source, source code is licensed under Apache License Version 2.0 and available on GitHub.</string>
+    <string name="about_web">For more information visit\nwww.traccar.org/client</string>
+    <string name="app_logo">Traccar</string>
+    <string name="app_name">Traccar Client</string>
+    <string name="error_msg_invalid_url">โปรดใส่ค่า http:// or https:// URL ที่ถูกต้อง</string>
+    <string name="hidden_alert">The app has been hidden. To open it again please dial 8722227 (TRACCAR).</string>
+    <string name="hidden_app_name">ตั้งค่าอุปกรณ์</string>
+    <string name="menu_about">เกี่ยวกับ</string>
+    <string name="menu_clear">ล้างข้อมูล</string>
+    <string name="menu_shortcuts">เพิ่มชอร์ตคัท</string>
+    <string name="menu_status">สถานะ</string>
+    <string msgid="146198913615257606" name="search_menu_title">"ค้นหา"</string>
+    <string name="settings_angle_summary">รายงานในมุมองศา</string>
+    <string name="settings_angle_title">มุม</string>
+    <string name="settings_distance_summary">การรายงานระยะทางเมตร</string>
+    <string name="settings_distance_title">ระยะทาง</string>
+    <string name="settings_foreground_summary">เพิ่มความลำดับสำคัญการทำงาน</string>
+    <string name="settings_foreground_title">ทำงานเบื้องหน้า</string>
+    <string name="settings_id_title">หมายเลขอุปกรณ์</string>
+    <string name="settings_interval_summary">รายงานทุกช่วงเวลาวินาที</string>
+    <string name="settings_interval_title">ช่วงเวลาส่งข้อมูล</string>
+    <string name="settings_provider_gps">ใช้จาก GPS</string>
+    <string name="settings_provider_mixed">ใช้ร่วมกันทั้งสองแบบ</string>
+    <string name="settings_provider_network">ใช้จากข้อมูลเครือข่าย</string>
+    <string name="settings_provider_summary">แหล่งของข้อมูลบอกตำแหน่ง</string>
+    <string name="settings_provider_title">ตัวบอกตำแหน่ง</string>
+    <string name="settings_status_off">เริ่มต้น</string>
+    <string name="settings_status_off_summary">เริ่มทำงาน</string>
+    <string name="settings_status_on">สิ้นสุด</string>
+    <string name="settings_status_on_summary">หยุดทำงาน</string>
+    <string name="settings_status_title">สถานะเซิร์ฟเวอร์</string>
+    <string name="settings_url_summary">ท๊่อยู่ URL เซิร์ฟเวอร์ติดตาม</string>
+    <string name="settings_url_title">ท๊่อยู่ URL เซิร์ฟเวอร์</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_connectivity_change">เปลี่ยนแปลงการเชื่อมต่อ</string>
+    <string name="status_location_update">ปรับปรุงตำแหน่ง</string>
+    <string name="status_send_fail">ส่งข้อมูลล้มเหลว</string>
+    <string name="status_send_success">ส่งข้อมูลเรียบร้อย</string>
+</resources>

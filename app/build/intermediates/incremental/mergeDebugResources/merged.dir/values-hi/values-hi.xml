@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"मुख्यपृष्ठ पर नेविगेट करें"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ऊपर नेविगेट करें"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"अधिक विकल्प"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"पूर्ण"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"सभी देखें"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"कोई एप्‍लिकेशन चुनें"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"बंद"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"चालू"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"खोजा जा रहा है…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"क्‍वेरी साफ़ करें"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"खोज क्वेरी"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"खोजें"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"क्वेरी सबमिट करें"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ध्वनि खोज"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"इसके द्वारा साझा करें"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s के साथ साझा करें"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"संक्षिप्त करें"</string>
+    <string name="about_description">एंड्रॉयड उपकरणों के लिए वास्तविक समय जीपीएस ट्रैकर। ट्रैक्कार सर्वर और अन्य  ट्रैकिंग प्रणालियों के साथ अनुकूल।</string>
+    <string name="about_license">इस एप्लिकेशन के पास स्वतंत्र और खुला स्रोत है  , स्रोत कोड अपाचे लाइसेंस संस्करण 2.0 और GitHub के अंतर्गत उपलब्ध लाइसेंस प्राप्त है ।</string>
+    <string name="about_web">अधिक जानकारी के लिए www.traccar.org/client वेबसाइट देखें </string>
+    <string name="app_logo">ट्रैक्कार</string>
+    <string name="app_name">ट्रैक्कार क्लाइंट </string>
+    <string name="hidden_alert">एप्लिकेशन को छुपा दिया गया है l इसे फिर से खोलने के लिए डायल करें 8722227 ( TRACCAR ) l</string>
+    <string name="hidden_app_name">उपकरण की सेटिंग्स</string>
+    <string name="menu_about">बारे में</string>
+    <string name="menu_clear">स्पष्ट /  साफ़</string>
+    <string name="menu_shortcuts">शॉर्टकट्स जोड़ें</string>
+    <string name="menu_status">स्थिति</string>
+    <string msgid="146198913615257606" name="search_menu_title">"खोज"</string>
+    <string name="settings_foreground_summary">सेवा प्राथमिकता बढ़ाएँ</string>
+    <string name="settings_foreground_title">अग्रभूमि सेवा</string>
+    <string name="settings_id_title">उपकरण पहचानकर्ता</string>
+    <string name="settings_interval_title">फ्रीक्वेंसी / आवृत्ति</string>
+    <string name="settings_provider_gps">जीपीएस प्रदाता</string>
+    <string name="settings_provider_mixed">मिश्रित प्रदाता</string>
+    <string name="settings_provider_network">नेटवर्क प्रदाता</string>
+    <string name="settings_provider_summary">जगह / स्थान / स्तिथि डेटा का स्रोत</string>
+    <string name="settings_provider_title">जगह / स्थान / स्तिथि प्रदाता</string>
+    <string name="settings_status_off">आरम्भ</string>
+    <string name="settings_status_off_summary">सेवा रुक गई है</string>
+    <string name="settings_status_on">रोकें</string>
+    <string name="settings_status_on_summary">सेवा चल रही है</string>
+    <string name="settings_status_title">सेवा की स्थिति</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_connectivity_change">कनेक्टिविटी / संयोजकता परिवर्तन</string>
+    <string name="status_location_update">जगह / स्थान / स्तिथि का अद्यतन / ताजी जानकारी</string>
+    <string name="status_send_fail">भेजना विफल हो गया है </string>
+</resources>

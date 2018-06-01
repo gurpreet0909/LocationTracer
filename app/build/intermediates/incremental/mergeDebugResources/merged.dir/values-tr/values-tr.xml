@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ana ekrana git"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Bitti"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KAPAT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AÇ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Ara…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Şununla paylaş"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s ile paylaş"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Daralt"</string>
+    <string name="about_description">Android cihazlar için gerçek zamanlı takip uygulaması. Traccar sunucuları ve diğer takip sistemleriyle uyumlu.</string>
+    <string name="about_license">Bu uygulama ücretsiz ve acık kaynaklıdır , kaynak kodu lisansı Apache License Version 2.0 altında lisanslı ve GitHub üzerinden ulaşılabilir.</string>
+    <string name="about_web">Daha fazla bilgi için http:\\www.traccar.org/client adresini ziyaret edin.</string>
+    <string name="app_logo">Traccar</string>
+    <string name="app_name">Traccar Yönetim</string>
+    <string name="error_msg_invalid_url">Lütfen geçerli bir adres girin http:// veya https://</string>
+    <string name="hidden_alert">Bu uygulama arkaplanda gizli olarak çalışmaktadır. Tekrar görmek için lütfen 8722227 tuşlayın. Arayın. (TRACCAR)</string>
+    <string name="hidden_app_name">Cihaz Ayarları</string>
+    <string name="menu_about">Hakkında</string>
+    <string name="menu_clear">Temizle</string>
+    <string name="menu_shortcuts">Kısayol ekle</string>
+    <string name="menu_status">Durum</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Ara"</string>
+    <string name="settings_angle_summary">Derece cinsinden açı bildirimi</string>
+    <string name="settings_angle_title">Açı</string>
+    <string name="settings_distance_summary">Metre cinsinden mesafe bildirimi</string>
+    <string name="settings_distance_title">Mesafe</string>
+    <string name="settings_foreground_summary">Servis önceliği arttır</string>
+    <string name="settings_foreground_title">Önplan servisi</string>
+    <string name="settings_id_title">Cihaz Kimliği</string>
+    <string name="settings_interval_summary">Saniye cinsinden bildirim döngüsü</string>
+    <string name="settings_interval_title">Sıklık</string>
+    <string name="settings_provider_gps">GPS sağlayıcı</string>
+    <string name="settings_provider_mixed">Karışık sağlayıcı</string>
+    <string name="settings_provider_network">Network sağlayıcı</string>
+    <string name="settings_provider_summary">Yer bilgisi kaynağı</string>
+    <string name="settings_provider_title">Yer sağlayıcı</string>
+    <string name="settings_status_off">Başlat</string>
+    <string name="settings_status_off_summary">Servis Durdu</string>
+    <string name="settings_status_on">Durdur</string>
+    <string name="settings_status_on_summary">Servis Çalışıyor</string>
+    <string name="settings_status_title">Servis Durumu</string>
+    <string name="settings_url_summary">Takip sunucusu adresi</string>
+    <string name="settings_url_title">Sunucu adresi</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_connectivity_change">Bağlantı değişimi</string>
+    <string name="status_location_update">Yer güncellendi</string>
+    <string name="status_send_fail">Gönderme başarısız</string>
+    <string name="status_send_success">Gönderme başarılı</string>
+</resources>

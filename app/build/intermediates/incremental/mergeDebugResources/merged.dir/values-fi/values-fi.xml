@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Siirry etusivulle"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Siirry ylös"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Lisää"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Valmis"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Näytä kaikki"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Valitse sovellus"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"POIS KÄYTÖSTÄ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"KÄYTÖSSÄ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Haku…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Tyhjennä kysely"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Hakulauseke"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Haku"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lähetä kysely"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Puhehaku"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Jakaminen:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Jakaminen: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Kutista"</string>
+    <string name="about_description">Reaaliaikainen GPS-jäljitin Android-laitteille. Yhteensopiva Traccar Serverin ja muiden jäljitysjärjestelmien kanssa.</string>
+    <string name="about_license">Tämä sovellus on vapaata ja avointa lähdekoodia. Lähdekoodi on lisensoitu Apache License Version 2.0 -lisenssillä ja on saatavilla GitHubissa.</string>
+    <string name="about_web">Lisätietoa on osoitteessa\nwww.traccar.org/client</string>
+    <string name="app_logo">Traccar</string>
+    <string name="app_name">Traccar Client</string>
+    <string name="error_msg_invalid_url">Syötä kelvollinen http:// tai https:// URL-osoite</string>
+    <string name="hidden_alert">Sovellus on piilotettu. Näppäile 8722227 (TRACCAR) avataksesi sovelluksen uudelleen.</string>
+    <string name="hidden_app_name">Laitteen asetukset</string>
+    <string name="menu_about">About</string>
+    <string name="menu_clear">Tyhjennä</string>
+    <string name="menu_shortcuts">Lisää pikakuvakkeet</string>
+    <string name="menu_status">Tila</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Haku"</string>
+    <string name="settings_angle_summary">Raportointikulma asteissa</string>
+    <string name="settings_angle_title">Kulma</string>
+    <string name="settings_distance_summary">Raportointimatka metreissä</string>
+    <string name="settings_distance_title">Matka</string>
+    <string name="settings_id_title">Laitteen tunniste</string>
+    <string name="settings_interval_summary">Raportointiväli sekunneissa</string>
+    <string name="settings_interval_title">Taajuus</string>
+    <string name="settings_provider_gps">GPS satelliiti</string>
+    <string name="settings_provider_mixed">Yhdistelmä</string>
+    <string name="settings_provider_network">Matkapuhelinverkko</string>
+    <string name="settings_provider_summary">Sijaintidatan lähde</string>
+    <string name="settings_provider_title">Sijainnin tarjoaja</string>
+    <string name="settings_status_off">Aloita</string>
+    <string name="settings_status_off_summary">Palvelu pysäytetty</string>
+    <string name="settings_status_on">Pysäytä</string>
+    <string name="settings_status_on_summary">Palvelu käynnissä</string>
+    <string name="settings_status_title">Palvelun tila</string>
+    <string name="settings_url_summary">Jäljityspalvelimen URL-osoite</string>
+    <string name="settings_url_title">Palvelimen URL</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_connectivity_change">Muutos yhteydessä</string>
+    <string name="status_location_update">Sijainnin päivitys</string>
+    <string name="status_send_fail">Lähetys epäonnistui</string>
+    <string name="status_send_success">Lähetys onnistui</string>
+</resources>
